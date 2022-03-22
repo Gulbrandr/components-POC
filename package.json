@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/gulbrandr.solid-kdr74n4a-fork-l12msknh",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve XYNlPHXkDqtG5p4Vhx24 --open"
+  }
+}
